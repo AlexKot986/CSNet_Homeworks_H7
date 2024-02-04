@@ -1,0 +1,15 @@
+E:\GBrains\NetCS\H7_HomworkChat\ChatNetwork\bin\Debug\net8.0\ChatNetwork.deps.json
+E:\GBrains\NetCS\H7_HomworkChat\ChatNetwork\bin\Debug\net8.0\ChatNetwork.dll
+E:\GBrains\NetCS\H7_HomworkChat\ChatNetwork\bin\Debug\net8.0\ChatNetwork.pdb
+E:\GBrains\NetCS\H7_HomworkChat\ChatNetwork\bin\Debug\net8.0\ChatCommand.dll
+E:\GBrains\NetCS\H7_HomworkChat\ChatNetwork\bin\Debug\net8.0\ChatCommand.pdb
+E:\GBrains\NetCS\H7_HomworkChat\ChatNetwork\obj\Debug\net8.0\ChatNetwork.csproj.AssemblyReference.cache
+E:\GBrains\NetCS\H7_HomworkChat\ChatNetwork\obj\Debug\net8.0\ChatNetwork.GeneratedMSBuildEditorConfig.editorconfig
+E:\GBrains\NetCS\H7_HomworkChat\ChatNetwork\obj\Debug\net8.0\ChatNetwork.AssemblyInfoInputs.cache
+E:\GBrains\NetCS\H7_HomworkChat\ChatNetwork\obj\Debug\net8.0\ChatNetwork.AssemblyInfo.cs
+E:\GBrains\NetCS\H7_HomworkChat\ChatNetwork\obj\Debug\net8.0\ChatNetwork.csproj.CoreCompileInputs.cache
+E:\GBrains\NetCS\H7_HomworkChat\ChatNetwork\obj\Debug\net8.0\ChatNetwork.csproj.CopyComplete
+E:\GBrains\NetCS\H7_HomworkChat\ChatNetwork\obj\Debug\net8.0\ChatNetwork.dll
+E:\GBrains\NetCS\H7_HomworkChat\ChatNetwork\obj\Debug\net8.0\refint\ChatNetwork.dll
+E:\GBrains\NetCS\H7_HomworkChat\ChatNetwork\obj\Debug\net8.0\ChatNetwork.pdb
+E:\GBrains\NetCS\H7_HomworkChat\ChatNetwork\obj\Debug\net8.0\ref\ChatNetwork.dll

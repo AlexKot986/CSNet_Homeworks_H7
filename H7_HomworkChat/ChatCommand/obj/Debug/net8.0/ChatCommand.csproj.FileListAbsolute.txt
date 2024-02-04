@@ -1,0 +1,11 @@
+E:\GBrains\NetCS\H7_HomworkChat\ChatCommand\bin\Debug\net8.0\ChatCommand.deps.json
+E:\GBrains\NetCS\H7_HomworkChat\ChatCommand\bin\Debug\net8.0\ChatCommand.dll
+E:\GBrains\NetCS\H7_HomworkChat\ChatCommand\bin\Debug\net8.0\ChatCommand.pdb
+E:\GBrains\NetCS\H7_HomworkChat\ChatCommand\obj\Debug\net8.0\ChatCommand.GeneratedMSBuildEditorConfig.editorconfig
+E:\GBrains\NetCS\H7_HomworkChat\ChatCommand\obj\Debug\net8.0\ChatCommand.AssemblyInfoInputs.cache
+E:\GBrains\NetCS\H7_HomworkChat\ChatCommand\obj\Debug\net8.0\ChatCommand.AssemblyInfo.cs
+E:\GBrains\NetCS\H7_HomworkChat\ChatCommand\obj\Debug\net8.0\ChatCommand.csproj.CoreCompileInputs.cache
+E:\GBrains\NetCS\H7_HomworkChat\ChatCommand\obj\Debug\net8.0\ChatCommand.dll
+E:\GBrains\NetCS\H7_HomworkChat\ChatCommand\obj\Debug\net8.0\refint\ChatCommand.dll
+E:\GBrains\NetCS\H7_HomworkChat\ChatCommand\obj\Debug\net8.0\ChatCommand.pdb
+E:\GBrains\NetCS\H7_HomworkChat\ChatCommand\obj\Debug\net8.0\ref\ChatCommand.dll

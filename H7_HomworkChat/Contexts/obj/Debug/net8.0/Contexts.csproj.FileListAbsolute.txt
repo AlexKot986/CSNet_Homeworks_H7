@@ -1,0 +1,14 @@
+E:\GBrains\NetCS\H7_HomworkChat\Contexts\obj\Debug\net8.0\Contexts.csproj.AssemblyReference.cache
+E:\GBrains\NetCS\H7_HomworkChat\Contexts\obj\Debug\net8.0\Contexts.GeneratedMSBuildEditorConfig.editorconfig
+E:\GBrains\NetCS\H7_HomworkChat\Contexts\obj\Debug\net8.0\Contexts.AssemblyInfoInputs.cache
+E:\GBrains\NetCS\H7_HomworkChat\Contexts\obj\Debug\net8.0\Contexts.AssemblyInfo.cs
+E:\GBrains\NetCS\H7_HomworkChat\Contexts\obj\Debug\net8.0\Contexts.csproj.CoreCompileInputs.cache
+E:\GBrains\NetCS\H7_HomworkChat\Contexts\bin\Debug\net8.0\Contexts.deps.json
+E:\GBrains\NetCS\H7_HomworkChat\Contexts\bin\Debug\net8.0\Contexts.runtimeconfig.json
+E:\GBrains\NetCS\H7_HomworkChat\Contexts\bin\Debug\net8.0\Contexts.dll
+E:\GBrains\NetCS\H7_HomworkChat\Contexts\bin\Debug\net8.0\Contexts.pdb
+E:\GBrains\NetCS\H7_HomworkChat\Contexts\obj\Debug\net8.0\Contexts.dll
+E:\GBrains\NetCS\H7_HomworkChat\Contexts\obj\Debug\net8.0\refint\Contexts.dll
+E:\GBrains\NetCS\H7_HomworkChat\Contexts\obj\Debug\net8.0\Contexts.pdb
+E:\GBrains\NetCS\H7_HomworkChat\Contexts\obj\Debug\net8.0\Contexts.genruntimeconfig.cache
+E:\GBrains\NetCS\H7_HomworkChat\Contexts\obj\Debug\net8.0\ref\Contexts.dll
